@@ -29,7 +29,7 @@ ext {
     clientmanagerLibVersionCode = 1
     clientmanagerLibVersionName = "\"1.0.0\""
 
-    serverBaseURL = "\"https://api-internal.mec.mosip.net/\""
+    serverBaseURL = "\"https://api-internal.training.mosip.net/\""
 }
 
 task cleanOutputDir(type: Delete) {
