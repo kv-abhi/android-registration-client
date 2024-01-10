@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - feature-flutter
+      - developer-release/flutter/0.9.x
 
 jobs:
   build:
