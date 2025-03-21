@@ -10,7 +10,7 @@ on:
       defaultServerBaseURL:
         description: 'Server Base URL'
         required: true
-        default: 'api-internallive.grz.gov.zm'
+        default: 'api-internal-live.grz.gov.zm'
         type: string
 
 jobs:
